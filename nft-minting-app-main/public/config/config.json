@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x36dC47bDa4d452D141f912AFb55e5b60ecc2be7C",
+  "SCAN_LINK": "https://polygonscan.com/address/0x36dC47bDa4d452D141f912AFb55e5b60ecc2be7C",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "chelsuites",
+  "SYMBOL": "CSUNT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
